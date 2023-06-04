@@ -1,5 +1,4 @@
 # Module_15_leaflet-challenge
-The map is can be view at https://gavin-toole.github.io/Module_15_leaflet-challenge/
 
 Part 1: Create the Earthquake Visualization
 
