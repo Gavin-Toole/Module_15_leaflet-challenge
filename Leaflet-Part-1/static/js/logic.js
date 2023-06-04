@@ -116,6 +116,6 @@ function createMap(earthquakes) {
   L.control.layers(baseMaps, overlayMaps, {
     collapsed: false
   }).addTo(myMap);
-}
-}
- }
+    }
+  }
+};
